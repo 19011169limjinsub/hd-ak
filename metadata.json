@@ -1,0 +1,6 @@
+{
+  "name": "모빌리티 & 스마트팩토리 AI 취업 컨설턴트",
+  "description": "모빌리티 및 스마트팩토리 직무 일치도 분석, 합격 확률 예측, 합격자 DB 벤치마크 및 맞춤형 피드백 제공 AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
